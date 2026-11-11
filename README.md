@@ -1,4 +1,4 @@
-## Hi, I'm Methe Sriwongkorakod 👋
+## Hi, I'm Methe Sriwongkorakod
 
 **Full Stack Developer · DevOps**
 
